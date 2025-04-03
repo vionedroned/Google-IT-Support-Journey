@@ -27,4 +27,4 @@ I am starting this course to learn the fundamentals of IT support, which are cru
 
 ## Contact
 
-* [vionedroned@gmail.com] 
+* vionedroned@gmail.com
