@@ -25,6 +25,17 @@ I am starting this course to learn the fundamentals of IT support, which are cru
 * [ ] Week 7: Troubleshooting and Customer Service
 * [ ] Week 8: Putting it all together.
 
+
+## Repository Structure
+
+This repository is organized into the following folders to showcase my learning journey and projects related to the Google IT Support Professional Certificate:
+
+* **Course-Notes:** This folder contains my detailed notes from each module of the Google IT Support Professional Certificate. It covers key concepts, definitions, and practical examples.
+* **Labs:** This folder includes hands-on labs and exercises I completed as part of the course. These labs demonstrate my practical skills in areas such as troubleshooting, networking, and system administration.
+* **Resources:** This folder contains supplementary resources that I found helpful during my studies, such as links to relevant documentation, articles, and tools.
+
+By organizing my learning materials in this way, I aim to provide a clear and structured overview of my progress and skills acquired throughout the Google IT Support Professional Certificate program. I believe this repository demonstrates my commitment to learning, my ability to apply theoretical knowledge to practical scenarios, and my passion for IT support.
+
 ## Contact
 
 * vionedroned@gmail.com
